@@ -21,32 +21,32 @@ hand -->
 
 Full Stack Developer
 
-  Working as lead backend developer in a new company project.
+  Working as lead backend developer in a company's new project.
 
-    - Architected restful API
+    - Architected RESTful API
     - Design and maintain PostgreSQL database
-    - Maintain backend
-    - Main stack: Node.js, Nest.js, JSON, SQL, PostgreSQL
+    - Maintain web application backend
+    - Main stack: Node.js, TypeScript, Nest.js, JSON, SQL, PostgreSQL
 
 Frontend Developer
 
   Mostly work with new automatization features, documentation, new recruits.
 
-    - Maintained inner company documentation
-    - Teached new recruits
-    - Developed different automatizations for different applications, for easier developing (Разработала несколько сборщиков проектов, подобранных индивидуально для каждого СЛМ приложения)
+    - Maintained company toolchain documentation
+    - Onboarded new hires
+    - Developed CLM build toolchain
     - Created several quiz applications using React, Express.js and MongoDB
-    - Main stack: React, vanilla Javascript, Pug, Node.JS, Express.js, MongoDB 
+    - Main stack: React, Javascript, Pug, Node.JS, Express.js, MongoDB 
 
 Junior Frontend Developer
 
-  Junior frontend developer on a team of 4. Responsible for development CLM presentations and SPA for different pharmaceutical companies in promotional purposes.
+  Junior frontend developer on a team of 4. Responsible for development of CLM presentations and SPA for different pharmaceutical companies for promotional purposes.
 
-    - Developed and maintained many CLM presentations with different animations
-    - Developed and maintained several SPA with complicated logic
-    - Designed and developed different navigation scripts for different applications, as Veeva CLM, CTApp/CTMobile, MI Touch (IQVIA)
-    - Designed responsive emails with MJML
-    - Main stack: React, vanilla Javascript, HTML, CSS, JQuery, Pug, GSAP, MJML
+    - Developed and maintained animation-heavy CLM presentations 
+    - Developed and maintained several SPA's
+    - Designed and developed navigation scripts for applications,such as Veeva CLM, CTApp/CTMobile, MI Touch (IQVIA)
+    - Coded responsive emails
+    - Main stack: React, Javascript, HTML, CSS, JQuery, Pug, GSAP, MJML
 
 ## Education
 
